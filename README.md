@@ -1,5 +1,5 @@
 # conversor de binário para decimal
-Esse é um simples conversor de números binários para decimais usando PYTHON
+Esse é um simples conversor de números binários para decimais feito em PYTHON
 ## 
 ## Passos
   - Digitar qualquer número Binário (nota: APENAS NÚMEROS!) 
